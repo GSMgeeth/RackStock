@@ -78,7 +78,7 @@ namespace RackStock.Core
         {
             try
             {
-                string file = "D:/PackingSocks/Backup.sql";
+                string file = "D:/LabelStock/Backup.sql";
 
                 if (conn != null)
                 {
